@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-(https://drive.google.com/file/d/1Smm4VqhUpTP0sH5aZAS0uiKnv3JY7_tS/view?usp=sharing)
+(https://drive.google.com/file/d/10swJEKNlHSetxVW68o06cWdXPBFXWMOX/view?usp=sharing)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Microsoft screen recording. 
